@@ -1,0 +1,1 @@
+cmd_spl/drivers/mtd/spi/built-in.o :=  arm-linux-gnueabi-ld.bfd     -r -o spl/drivers/mtd/spi/built-in.o spl/drivers/mtd/spi/sf-uclass.o spl/drivers/mtd/spi/spi_spl_load.o spl/drivers/mtd/spi/sf_probe.o spl/drivers/mtd/spi/spi_flash.o spl/drivers/mtd/spi/sf_params.o spl/drivers/mtd/spi/sf.o 

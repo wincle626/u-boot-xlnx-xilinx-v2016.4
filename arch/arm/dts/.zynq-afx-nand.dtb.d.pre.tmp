@@ -1,0 +1,1 @@
+zynq-afx-nand.o: arch/arm/dts/zynq-afx-nand.dts

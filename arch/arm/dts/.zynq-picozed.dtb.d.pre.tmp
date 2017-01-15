@@ -1,0 +1,1 @@
+zynq-picozed.o: arch/arm/dts/zynq-picozed.dts arch/arm/dts/zynq-7000.dtsi

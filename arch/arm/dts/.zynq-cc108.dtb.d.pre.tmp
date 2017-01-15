@@ -1,0 +1,1 @@
+zynq-cc108.o: arch/arm/dts/zynq-cc108.dts

@@ -1,0 +1,1 @@
+zynq-zc702.o: arch/arm/dts/zynq-zc702.dts arch/arm/dts/zynq-7000.dtsi

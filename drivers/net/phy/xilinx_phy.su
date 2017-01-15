@@ -1,0 +1,3 @@
+xilinx_phy.c:115:12:xilinxphy_config	24	static
+xilinx_phy.c:36:12:xilinxphy_startup	16	static
+xilinx_phy.c:138:5:phy_xilinx_init	8	static

@@ -1,0 +1,6 @@
+serial_zynq.c:171:12:zynq_serial_pending	8	static
+serial_zynq.c:164:12:zynq_serial_putc	8	static
+serial_zynq.c:153:12:zynq_serial_getc	8	static
+serial_zynq.c:144:12:zynq_serial_probe	8	static
+serial_zynq.c:109:5:zynq_serial_setbrg	32	static
+serial_zynq.c:182:12:zynq_serial_ofdata_to_platdata	16	static

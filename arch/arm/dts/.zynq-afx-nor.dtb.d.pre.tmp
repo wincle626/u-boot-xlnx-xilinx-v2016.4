@@ -1,0 +1,1 @@
+zynq-afx-nor.o: arch/arm/dts/zynq-afx-nor.dts

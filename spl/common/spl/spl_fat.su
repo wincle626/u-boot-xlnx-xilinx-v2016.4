@@ -1,0 +1,2 @@
+spl_fat.c:57:5:spl_load_image_fat	16	static
+spl_fat.c:106:5:spl_load_image_fat_os	24	static

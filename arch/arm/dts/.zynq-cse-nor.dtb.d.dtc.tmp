@@ -1,0 +1,1 @@
+arch/arm/dts/zynq-cse-nor.dtb: arch/arm/dts/.zynq-cse-nor.dtb.dts.tmp arch/arm/dts/skeleton.dtsi

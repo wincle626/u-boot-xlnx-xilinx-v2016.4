@@ -1,0 +1,9 @@
+zynq_qspi.c:149:12:zynq_qspi_ofdata_to_platdata	0	static
+zynq_qspi.c:377:12:zynq_qspi_set_mode	8	static
+zynq_qspi.c:341:12:zynq_qspi_set_speed	16	static
+zynq_qspi.c:783:12:zynq_qspi_release_bus	8	static
+zynq_qspi.c:771:12:zynq_qspi_claim_bus	8	static
+zynq_qspi.c:525:13:zynq_qspi_fill_tx_fifo	48	static
+zynq_qspi.c:795:12:zynq_qspi_xfer	48	static
+zynq_qspi.c:306:12:zynq_qspi_child_pre_probe	16	static
+zynq_qspi.c:319:12:zynq_qspi_probe	16	static

@@ -1,0 +1,1 @@
+cmd_spl/arch/arm/mach-zynq/built-in.o :=  arm-linux-gnueabi-ld.bfd     -r -o spl/arch/arm/mach-zynq/built-in.o spl/arch/arm/mach-zynq/timer.o spl/arch/arm/mach-zynq/cpu.o spl/arch/arm/mach-zynq/ddrc.o spl/arch/arm/mach-zynq/slcr.o spl/arch/arm/mach-zynq/clk.o spl/arch/arm/mach-zynq/lowlevel_init.o spl/arch/arm/mach-zynq/spl.o 

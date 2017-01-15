@@ -1,0 +1,1 @@
+zynq-cse-qspi.o: arch/arm/dts/zynq-cse-qspi.dts

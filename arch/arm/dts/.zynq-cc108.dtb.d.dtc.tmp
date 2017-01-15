@@ -1,0 +1,1 @@
+arch/arm/dts/zynq-cc108.dtb: arch/arm/dts/.zynq-cc108.dtb.dts.tmp arch/arm/dts/zynq-7000.dtsi arch/arm/dts/skeleton.dtsi

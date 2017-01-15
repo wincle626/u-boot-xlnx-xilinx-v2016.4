@@ -1,0 +1,1 @@
+zynq-afx-qspi.o: arch/arm/dts/zynq-afx-qspi.dts

@@ -1,0 +1,1 @@
+zynq-cse-nor.o: arch/arm/dts/zynq-cse-nor.dts arch/arm/dts/zynq-7000.dtsi

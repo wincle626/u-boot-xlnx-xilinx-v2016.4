@@ -1,0 +1,2 @@
+zynq-cse-nand.o: arch/arm/dts/zynq-cse-nand.dts \
+ arch/arm/dts/zynq-7000.dtsi

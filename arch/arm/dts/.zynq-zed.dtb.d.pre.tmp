@@ -1,0 +1,1 @@
+zynq-zed.o: arch/arm/dts/zynq-zed.dts arch/arm/dts/zynq-7000.dtsi

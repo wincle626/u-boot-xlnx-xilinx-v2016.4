@@ -1,0 +1,1 @@
+arch/arm/dts/zynq-zc770-xm013.dtb: arch/arm/dts/.zynq-zc770-xm013.dtb.dts.tmp arch/arm/dts/skeleton.dtsi

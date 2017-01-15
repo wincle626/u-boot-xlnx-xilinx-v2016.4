@@ -1,0 +1,2 @@
+zynq-microzed.o: arch/arm/dts/zynq-microzed.dts \
+ arch/arm/dts/zynq-7000.dtsi

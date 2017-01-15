@@ -1,0 +1,12 @@
+spl.c:41:13:show_boot_progress	0	static
+spl.c:54:12:spl_start_uboot	8	static
+spl.c:67:13:spl_board_prepare_for_linux	0	static
+spl.c:72:13:spl_board_prepare_for_boot	0	static
+spl.c:77:6:spl_set_header_raw_uboot	0	static
+spl.c:86:5:spl_parse_image_header	8	static
+spl.c:137:24:jump_to_image_no_args	8	static
+spl.c:194:5:spl_init	8	static
+spl.c:237:13:board_boot_order	8	static
+spl.c:395:6:board_init_r	16	static
+spl.c:463:6:preloader_console_init	8	static
+spl.c:497:7:spl_relocate_stack_gd	0	static

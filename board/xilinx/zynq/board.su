@@ -1,0 +1,6 @@
+board.c:34:5:board_init	8	static
+board.c:91:5:board_late_init	8	static
+board.c:118:5:checkboard	8	static
+board.c:125:5:zynq_board_read_rom_ethaddr	0	static
+board.c:215:6:dram_init_banksize	0	static
+board.c:229:5:dram_init	64	static

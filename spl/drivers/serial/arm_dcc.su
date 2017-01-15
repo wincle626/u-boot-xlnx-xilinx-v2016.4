@@ -1,0 +1,3 @@
+arm_dcc.c:99:12:arm_dcc_getc	0	static
+arm_dcc.c:112:12:arm_dcc_putc	0	static
+arm_dcc.c:130:12:arm_dcc_pending	0	static

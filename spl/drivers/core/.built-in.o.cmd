@@ -1,0 +1,1 @@
+cmd_spl/drivers/core/built-in.o :=  arm-linux-gnueabi-ld.bfd     -r -o spl/drivers/core/built-in.o spl/drivers/core/device.o spl/drivers/core/lists.o spl/drivers/core/root.o spl/drivers/core/uclass.o spl/drivers/core/util.o spl/drivers/core/simple-bus.o spl/drivers/core/dump.o 
